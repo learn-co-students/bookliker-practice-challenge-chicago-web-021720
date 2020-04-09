@@ -69,7 +69,6 @@ const readBook = (event) => {
         for (let i = 0; i < bookUsers.length; i ++) {
             bookUserHashArray.unshift({id: bookUsers[i].id, username: bookUsers[i].username})   
         }
-        bookUserHashArray;
 
         const patchObj = {
             method: "PATCH",
