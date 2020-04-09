@@ -77,7 +77,7 @@ const readBook = (event) => {
         }
 
         fetch(BOOKURL + `/${bookId}`, patchObj).then(r => r.json()).then(book => {
-            console.log(book)
+            console.log('good for you')
             let user = book.users.slice(-1)[0]
             document.getElementById(`show-${book.id}`).innerHTML += `<h4 id=user-${user.id}>${user.username}</h4>`
         })

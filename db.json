@@ -27,16 +27,20 @@
       "img_url": "http://books.google.com/books/content?id=pkwCDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 6,
-          "username": "steuber"
+          "id": 10,
+          "username": "macejkovic"
         },
         {
           "id": 4,
           "username": "batz"
         },
         {
-          "id": 10,
-          "username": "macejkovic"
+          "id": 6,
+          "username": "steuber"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
@@ -47,12 +51,16 @@
       "img_url": "http://books.google.com/books/content?id=xTSmAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
+          "id": 8,
+          "username": "goodwin"
+        },
+        {
           "id": 9,
           "username": "nikolaus"
         },
         {
-          "id": 8,
-          "username": "goodwin"
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
@@ -83,16 +91,20 @@
       "img_url": "http://books.google.com/books/content?id=bNYgCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 8,
-          "username": "goodwin"
+          "id": 10,
+          "username": "macejkovic"
         },
         {
           "id": 4,
           "username": "batz"
         },
         {
-          "id": 10,
-          "username": "macejkovic"
+          "id": 8,
+          "username": "goodwin"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
