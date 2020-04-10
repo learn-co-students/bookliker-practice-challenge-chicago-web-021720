@@ -7,12 +7,16 @@
       "img_url": "http://books.google.com/books/content?id=CEMZ1OoPDIAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 2,
-          "username": "auer"
+          "id": 7,
+          "username": "steuber"
         },
         {
-          "id": 8,
-          "username": "goodwin"
+          "id": 4,
+          "username": "batz"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
@@ -49,6 +53,18 @@
         {
           "id": 9,
           "username": "nikolaus"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
